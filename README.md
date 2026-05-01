@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá! Eu sou Wendsmar Nogueira de Paula 👋
 
-<!--
-**Wendsmar1/Wendsmar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏗️ Architect of Greenzappz Ecosystem
 
-Here are some ideas to get you started:
+Crio sistemas, automações e agentes inteligentes que conectam tecnologia, estratégia e resultados reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Founding everything at [Greenzappz](https://github.com/Wendsmar1/Greenzappz) | 📍 Rio Brilhante, MS, Brasil
+
+---
+
+## 🛠️ Tech Stack
+
+```bash
+AI & Automation: AI Agents, N8N, Claude, GPT, Docker, VPS
+Backend: Python, Node.js, APIs, Webhooks
+Infra: Ubuntu, Docker, Cloud, CI/CD
+Content: Canva, CapCut, Motion Design
+```
+
+---
+
+## 🚀 O Ecossistema Greenzappz
+
+| Projeto | Objetivo |
+|---------|----------|
+| 🧠 Greenzappz Core | Plataforma central de automação | |
+| 📖 Guiazappz | Guias técnicos e documentação |
+| 🧱 Wallzappz | Produto principal |
+| 💡 Bizoia-Bizu | Conteúdo educativo |
+| 🛒 Caiu Do Cel Ofertas | E-commerce |
+
+---
+
+## 🌟 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wendsmar1&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendsmar1&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 📬 Contato
+
+- 📧 Email: [contato@wendsmar.com.br](mailto:contato@wendsmar.com.br)
+- 💻 GitHub: [@Wendsmar1](https://github.com/Wendsmar1)
+- 🌐 Site: [wendsmar.com.br](https://wendsmar.com.br)
+
+---
