@@ -1,10 +1,10 @@
 # Olá! Eu sou Wendsmar Nogueira de Paula 👋
 
-## 🏗️ Architect of Greenzappz Ecosystem
+## 🏗️ Architect of ZappZ Ecosystem
 
 Crio sistemas, automações e agentes inteligentes que conectam tecnologia, estratégia e resultados reais.
 
-> Founding everything at [Greenzappz](https://github.com/Wendsmar1/Greenzappz) | 📍 Rio Brilhante, MS, Brasil
+> Founding everything at [Greenzappz](https://github.com/Wendsmar1/ZappZ) | 📍 Rio Brilhante, MS, Brasil
 
 ---
 
@@ -22,12 +22,14 @@ Content: Canva, CapCut, Motion Design
 ## 🚀 O Ecossistema Greenzappz
 
 | Projeto | Objetivo |
-|---------|----------|
-| 🧠 Greenzappz Core | Plataforma central de automação | |
-| 📖 Guiazappz | Guias técnicos e documentação |
-| 🧱 Wallzappz | Produto principal |
-| 💡 Bizoia-Bizu | Conteúdo educativo |
-| 🛒 Caiu Do Cel Ofertas | E-commerce |
+| 🧠 Grupo ZappZ Core | Guarda-chuva estratégico do ecossistema | |
+| 🤖 IaZappZ | Agentes, Skills e Squads de IA | |
+| 📖 GuiaZappZ | Guia comercial, comunitário e local | |
+| 🧱 WallZappZ | Suporte tecnológico, automação e infraestrutura | |
+| 📣 MidiaZappZ | Marketing, conteúdo e posicionamento | |
+| 🌱 GreenZappZ | Educação, sustentabilidade e impacto social | |
+| 💡 Bizóia Bizu | Print on demand e produtos criativos | |
+| 🛒 Caiu do Cel Ofertas | E-commerce, achadinhos e afiliados | |
 
 ---
 
