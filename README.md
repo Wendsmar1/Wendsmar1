@@ -4,7 +4,7 @@
 
 Crio sistemas, automações e agentes inteligentes que conectam tecnologia, estratégia e resultados reais.
 
-> Founding everything at [ Zappz https://github.com/Wendsmar1/ZappZ) | 📍 Rio Brilhante, MS, Brasil
+> Founding everything at [Zappz] https://github.com/Wendsmar1/ZappZ) | 📍 Rio Brilhante, MS, Brasil
 
 ---
 
