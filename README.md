@@ -1,15 +1,13 @@
-# Olá 👋, eu sou Wendsmar Nogueira de Paula
+# Olá 👋, eu sou Wendsmar
 
-🚀 **Criador de Soluções Digitais | Agentes de IA | Automação | Estratégia Digital**  
+🚀 **Criador de Soluções com IA | Agentes Inteligentes | Skills | Squads de IA**  
 🇧🇷 Rio Brilhante, MS, Brasil
 
-Eu crio **agentes inteligentes**, **skills personalizadas**, **squads de IA**, automações e estruturas digitais que conectam tecnologia, estratégia e resultado prático.
+Eu crio **agentes de IA**, **skills personalizadas** e **squads inteligentes** para transformar ideias, processos e conhecimento em soluções práticas.
 
-Meu foco é transformar ideias, processos e conhecimento em soluções simples, úteis e aplicáveis para negócios locais, projetos digitais e ecossistemas em crescimento.
+Atualmente estou desenvolvendo a **IAZappZ**, uma iniciativa focada em tornar a inteligência artificial mais útil, acessível e aplicável para negócios, criadores e projetos digitais.
 
-Atualmente estou construindo o **Grupo ZappZ**, um ecossistema de marcas voltado para tecnologia, inteligência artificial, marketing, comércio local, educação, sustentabilidade e soluções digitais.
-
-> Criando o ecossistema [ZappZ](https://github.com/Wendsmar1/ZappZ) | 📍 Rio Brilhante, MS, Brasil
+Meu trabalho une tecnologia, estratégia, organização e criatividade para criar soluções que funcionam no mundo real.
 
 ---
 
@@ -19,13 +17,28 @@ Atualmente estou construindo o **Grupo ZappZ**, um ecossistema de marcas voltado
   <a href="https://github.com/Wendsmar1">
     <img src="https://img.shields.io/badge/GitHub-WENDSMAR1-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:contato@wendsmar.com.br">
-    <img src="https://img.shields.io/badge/Email-CONTATO@WENDSMAR.COM.BR-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wendsmar.com.br">
-    <img src="https://img.shields.io/badge/Site-WENDSMAR.COM.BR-264653?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="mailto:contato.iazappz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-CONTATO.IAZAPPZ@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🤖 Sobre a IAZappZ
+
+A **IAZappZ** cria soluções com inteligência artificial para pessoas, negócios e projetos digitais.
+
+O foco principal está em:
+
+- Agentes de IA personalizados
+- Skills exclusivas
+- Squads de agentes especializados
+- Prompts profissionais
+- Bases de conhecimento organizadas
+- Fluxos de automação com IA
+- Assistentes para atendimento, conteúdo, organização e operação
+
+A proposta é simples: transformar conhecimento e processos em soluções inteligentes prontas para uso.
 
 ---
 
@@ -35,16 +48,14 @@ Atualmente estou construindo o **Grupo ZappZ**, um ecossistema de marcas voltado
 - 🧩 Desenvolvimento de **Skills personalizadas**
 - 👥 Estruturação de **Squads de IA**
 - ⚙️ Automação de processos com IA
-- 🧱 Organização de bases de conhecimento
+- 📚 Organização de bases de conhecimento
 - 🔗 Integrações com ferramentas digitais
-- 📲 Estratégias para WhatsApp, atendimento e negócios locais
-- 📣 Apoio em marketing, conteúdo e posicionamento digital
-- 🛠️ Suporte tecnológico e estruturação de soluções práticas
-- 🌱 Projetos com impacto social, educação e sustentabilidade
+- 📲 Estruturação de assistentes para WhatsApp, atendimento e operação
+- 🛠️ Soluções práticas para negócios, criadores e projetos digitais
 
 ---
 
-## 🛠️ Stack e ferramentas
+## 🛠️ Ferramentas e tecnologias
 
 ### IA & Automação
 
@@ -62,70 +73,13 @@ Atualmente estou construindo o **Grupo ZappZ**, um ecossistema de marcas voltado
 ![Webhooks](https://img.shields.io/badge/Webhooks-800020?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Infraestrutura
+### Infraestrutura & Criação
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-4B3621?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-02ACF0?style=for-the-badge)
-
-### Conteúdo & Design
-
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Motion Design](https://img.shields.io/badge/Motion%20Design-8B4000?style=for-the-badge)
-
----
-
-## 🚀 Ecossistema Grupo ZappZ
-
-| Projeto | Objetivo |
-|---|---|
-| 🧠 **Grupo ZappZ Core** | Guarda-chuva estratégico do ecossistema |
-| 🤖 **IAZappZ** | Agentes, Skills e Squads de IA |
-| 📖 **GuiaZappZ** | Guia comercial, comunitário e local |
-| 🧱 **WallZappZ** | Suporte tecnológico, automação e infraestrutura |
-| 📣 **MidiaZappZ** | Marketing, conteúdo e posicionamento |
-| 🌱 **GreenZappZ** | Educação, sustentabilidade e impacto social |
-| 💡 **Bizóia Bizu** | Print on demand e produtos criativos |
-| 🛒 **Caiu do Cel Ofertas** | E-commerce, achadinhos e afiliados |
-
----
-
-## 🤖 IAZappZ
-
-A **IAZappZ** é a marca do Grupo ZappZ focada na criação de soluções com inteligência artificial.
-
-Seu objetivo é desenvolver:
-
-- Agentes de IA personalizados
-- Skills exclusivas
-- Squads de agentes especializados
-- Bases de conhecimento organizadas
-- Prompts profissionais
-- Fluxos de automação com IA
-- Estruturas para atendimento, conteúdo, organização e operação
-
-A proposta é tornar a inteligência artificial mais prática, acessível e útil para pessoas, empresas e projetos digitais.
-
----
-
-## 🧭 Minha forma de trabalhar
-
-Eu acredito que tecnologia boa não precisa ser complicada.
-
-Meu trabalho une:
-
-- Clareza
-- Estratégia
-- Organização
-- Criatividade
-- Automação
-- Inteligência artificial
-- Aplicação prática no mundo real
-
-Mais do que criar ferramentas, meu foco é criar soluções que ajudem pessoas e negócios a funcionarem melhor.
 
 ---
 
@@ -147,11 +101,10 @@ Mais do que criar ferramentas, meu foco é criar soluções que ajudem pessoas e
 
 ## 📬 Contato
 
-- 📧 Email: [contato@wendsmar.com.br](mailto:contato@wendsmar.com.br)
+- 📧 Email: [contato.iazappz@gmail.com](mailto:contato.iazappz@gmail.com)
 - 💻 GitHub: [@Wendsmar1](https://github.com/Wendsmar1)
-- 🌐 Site: [wendsmar.com.br](https://wendsmar.com.br)
 
 ---
 
-⭐ Se algum projeto fizer sentido para você, fique à vontade para acompanhar, contribuir ou trocar uma ideia.
-🤝 Estou aberto a parcerias, colaborações e projetos com propósito.
+⭐ Se algum projeto fizer sentido para você, fique à vontade para acompanhar, contribuir ou trocar uma ideia.  
+🤝 Estou aberto a parcerias, colaborações e projetos com IA.
