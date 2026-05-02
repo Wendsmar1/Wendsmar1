@@ -1,7 +1,7 @@
 # Olá 👋, eu sou Wendsmar
 
 🚀 **Criador de Soluções com IA | Agentes Inteligentes | Skills | Squads de IA**  
-🇧🇷 Rio Brilhante, MS, Brasil
+🇧🇷 Rio Brilhante, MS, Brasil 🇧🇷
 
 Eu crio **agentes de IA**, **skills personalizadas** e **squads inteligentes** para transformar ideias, processos e conhecimento em soluções práticas.
 
